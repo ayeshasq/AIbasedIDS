@@ -24,13 +24,3 @@ The goal of this project is to:
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 1️⃣ Install Python & pip
-Ensure you have **Python 3.9+** and **pip** installed.  
-[Download Python](https://www.python.org/downloads/)  
-
-Check installation:
-```bash
-python --version
-pip --version
